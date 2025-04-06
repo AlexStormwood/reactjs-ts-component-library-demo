@@ -82,7 +82,7 @@ jobs:
         run: npm install
 
       - name: Build TypeScript into JavaScript
-        run: npm run build
+        run: npm run build:lib
 
       - name: Build app
         uses: JS-DevTools/npm-publish@v3

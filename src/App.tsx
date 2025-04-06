@@ -5,6 +5,8 @@ export default function App(){
     <>
       <h1>Demo</h1>
       <ExampleComponent />
+      <p>Visit the source code at:</p>
+      <a href="https://github.com/AlexStormwood/reactjs-ts-component-library-demo">GitHub</a>
     </>
   )
 }

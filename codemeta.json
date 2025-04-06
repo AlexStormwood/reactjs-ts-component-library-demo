@@ -47,7 +47,7 @@
     "name": "ReactJS TypeScript Component Library Demo",
     "programmingLanguage": "JavaScript",
     "runtimePlatform": "GitHub",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "contIntegration": "https://github.com/AlexStormwood/reactjs-ts-component-library-demo/actions",
     "codemeta:continuousIntegration": {
         "id": "https://github.com/AlexStormwood/reactjs-ts-component-library-demo/actions"

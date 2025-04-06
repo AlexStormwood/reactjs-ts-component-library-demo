@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: ReactJS TypeScript Component Library Demo
+authors:
+  - family-names: Stormwood
+    given-names: Alex
+    orcid: https://orcid.org/0009-0008-2183-7041
+abstract: Example repo to demonstrate how a ReactJS project built with Vite and TypeScript can be used to create and share components as a library - specifically, as an NPM package.
+repository-code: "https://github.com/AlexStormwood/reactjs-ts-component-library-demo"
+type: software
+version: 1.0.0
+license-url: "https://spdx.org/licenses/MIT"
+keywords:
+  - github
+  - typescript
+  - react
+  - reactjs
+  - vite
+  - npm
+date-released: 2025-04-06

@@ -8,7 +8,7 @@ authors:
 abstract: Example repo to demonstrate how a ReactJS project built with Vite and TypeScript can be used to create and share components as a library - specifically, as an NPM package.
 repository-code: "https://github.com/AlexStormwood/reactjs-ts-component-library-demo"
 type: software
-version: 1.0.0
+version: 0.1.0
 license-url: "https://spdx.org/licenses/MIT"
 keywords:
   - github
